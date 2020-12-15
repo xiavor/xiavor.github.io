@@ -6,6 +6,6 @@ This is a github pages about how to prevent the covid .
 
 ----
 
-> **This pages is bade by [ravello-h](https://ravelloh.js.org).
+> *This pages is bade by [ravello-h](https://ravelloh.js.org).
 
 
